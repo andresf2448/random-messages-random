@@ -14,7 +14,15 @@
   "author": "Andrés Felipe Velásquez Trujillo",
   "license": "ISC",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresf2448/random-messages-random.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andresf2448/random-messages-random/issues"
+  },
+  "homepage": "https://github.com/andresf2448/random-messages-random#readme"
 }
