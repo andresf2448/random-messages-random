@@ -11,7 +11,9 @@ npm i -g random-messages-random
 # Usage
 
 ```bash
-random-msg
+const { randomMsg } = require("random-messages-random");
+
+console.log(randomMsg());
 ```
 
 # Contributing
